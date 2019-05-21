@@ -7,7 +7,7 @@
 Miden is an assembler that assembles MIPS assembly to machine code for 16-bit RISC processors.
 
 # Instruction Set Architecture
-Miden supports 7 instructions and 8 registers. You can find more information [here](https://github.com/nahiyan/miden/blob/master/doc/isa.md).
+Miden supports 7 instructions and 8 registers. You can find more information [here](https://github.com/nahiyan/miden/blob/master/docs/isa.md).
 
 # Example
 

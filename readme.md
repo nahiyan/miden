@@ -116,7 +116,7 @@ As an example, the first token has a name of "LBL" and a value of "main."
 
 Token names are 3 characters long for simplicity.
 
-You can read more about tokens [here](https://github.com/nahiyan/miden/blob/master/doc/tokens.md).
+You can read more about tokens [here](https://github.com/nahiyan/miden/blob/master/docs/tokens.md).
 
 As you can see from the assembly code, we've got:
 
@@ -176,7 +176,7 @@ This machine code is for:
 li $s0, 0
 ``
 
-which is an instruction of type "RI." More on this in the [ISA](https://github.com/nahiyan/miden/blob/master/doc/isa.md).
+which is an instruction of type "RI." More on this in the [ISA](https://github.com/nahiyan/miden/blob/master/docs/isa.md).
 
 Since it's an RI-type instruction, here's the formatting:
 
